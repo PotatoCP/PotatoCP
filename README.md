@@ -1,5 +1,5 @@
-## Hi there 👋
+## Heyo 👋
 
-- Currently interested in Rust
-- Like Jazz/Rock/Pop Music
+- Currently interested in Rust 
+- Like Jazz/Rock/Pop Music 🎵
 - Discord: @naga_unyu
